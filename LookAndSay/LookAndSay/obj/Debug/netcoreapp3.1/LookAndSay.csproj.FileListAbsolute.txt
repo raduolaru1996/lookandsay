@@ -4,7 +4,6 @@ D:\lookandsay\LookAndSay\LookAndSay\bin\Debug\netcoreapp3.1\LookAndSay.runtimeco
 D:\lookandsay\LookAndSay\LookAndSay\bin\Debug\netcoreapp3.1\LookAndSay.runtimeconfig.dev.json
 D:\lookandsay\LookAndSay\LookAndSay\bin\Debug\netcoreapp3.1\LookAndSay.dll
 D:\lookandsay\LookAndSay\LookAndSay\bin\Debug\netcoreapp3.1\LookAndSay.pdb
-D:\lookandsay\LookAndSay\LookAndSay\obj\Debug\netcoreapp3.1\LookAndSay.csprojAssemblyReference.cache
 D:\lookandsay\LookAndSay\LookAndSay\obj\Debug\netcoreapp3.1\LookAndSay.AssemblyInfoInputs.cache
 D:\lookandsay\LookAndSay\LookAndSay\obj\Debug\netcoreapp3.1\LookAndSay.AssemblyInfo.cs
 D:\lookandsay\LookAndSay\LookAndSay\obj\Debug\netcoreapp3.1\LookAndSay.dll
